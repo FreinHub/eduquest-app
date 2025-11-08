@@ -30,6 +30,13 @@ npm start
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+4. Or
+
+git clone https://github.com/FreinHub/eduquest-app.git
+cd eduquest-app
+npm install
+npm start
+
 ## 🎯 Project Info
 
 This is a prototype developed for **DigiEduHack** competition.
