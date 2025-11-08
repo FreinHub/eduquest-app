@@ -465,7 +465,7 @@ function App() {
         </div>
         <div>
           UI/UX Design: <strong>Artjoms Solovjovs</strong> (71 School, 12b) | 
-          Development: DigiEduHack Team
+          Development: Džeki Team
         </div>
       </div>
     </div>
