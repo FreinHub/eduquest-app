@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+﻿# EduQuest - Learning Adventure Platform 🎯
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A gamified learning platform that transforms education into an exciting adventure! Built for DigiEduHack project.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- **Game-Based Learning** - Transform studying into quests and adventures
+- **Instant Feedback** - Real-time progress tracking and rewards
+- **Social Learning** - Team challenges and collaborative quests
+- **Practical Application** - Connect knowledge to real-world uses
+- **Personalized Content** - Adaptive learning based on individual styles
 
-### `npm start`
+## 🛠️ Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React.js with TypeScript
+- CSS3 with modern design
+- Responsive web design
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🎮 How to Run
 
-### `npm test`
+1. Install dependencies:
+\`\`\`bash
+npm install
+\`\`\`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Start development server:
+\`\`\`bash
+npm start
+\`\`\`
 
-### `npm run build`
+3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🎯 Project Info
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a prototype developed for **DigiEduHack** competition.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**UI/UX Design:** Artjoms Solovjovs (71 School, 12b)  
+**Development:** DigiEduHack Team
 
-### `npm run eject`
+## 📱 Demo Features
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Level system with AirPods reward at level 10
+- Personalized learning styles (Visual, Audio, Practical)
+- Team challenges and social learning
+- Practical knowledge applications
+- Interactive quest system
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+*Demo Version - Educational Purpose*
