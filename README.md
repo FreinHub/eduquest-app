@@ -71,12 +71,20 @@ eduquest-app/
 - \`npm test\` - Runs tests
 - \`npm run eject\` - Eject from Create React App
 
-## 👨‍💻 Project Info
+## 👥 Development Team
+
+**Project Lead & UI/UX Design:**  
+Artjoms Solovjovs (71 School, 12b)
+
+**Developing Team:**  
+Džeki
+
+**Mentors & Advisors:**  
+DigiEduHack Team
+
+## 📋 Project Info
 
 This is a prototype developed for **DigiEduHack** competition.
-
-**UI/UX Design:** Artjoms Solovjovs (71 School, 12b)  
-**Development:** DigiEduHack Team
 
 ## 🔧 Troubleshooting
 
